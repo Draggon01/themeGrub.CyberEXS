@@ -1,4 +1,4 @@
-Grub Theme from [HenriqueLopes42](https://github.com/HenriqueLopes42) / [GITHUB](https://github.com/HenriqueLopes42/themeGrub.CyberEXS)
+CREDIT: Grub Theme from [HenriqueLopes42](https://github.com/HenriqueLopes42) / [GITHUB](https://github.com/HenriqueLopes42/themeGrub.CyberEXS)
 
 Within this fork only the background image got upscaled to look better on a 2560x1440px screen.
 
